@@ -1,41 +1,43 @@
-DATA SCIENCE FINAL PROJECT
+**DATA SCIENCE FINAL PROJECT**
 
-(This project encompasses various components of data science, including machine learning, image preprocessing, natural language processing (NLP) preprocessing, and recommendations. It is designed to demonstrate proficiency in these areas through practical implementation.)
+**(This project encompasses various components of data science, including machine learning, image preprocessing, natural language processing (NLP) preprocessing, and recommendations. It is designed to demonstrate proficiency in these areas through practical implementation.)**
 
-Overview
+**Overview**
 
 The Data Science Final Project is a comprehensive exploration of predictive analytics, image analysis, text preprocessing, and recommendation systems. It integrates multiple aspects of data science to provide valuable insights and solutions.
 
-Pages
 
-Home Page
+**Home Page**
+
 - Provides an introduction to the project.
 - 
 - Highlights the objectives and key features of the project.
 
-Data Page
+**Data Page**
+
 - Displays the original dataset for analysis.
 - 
 - Presents results from machine learning models and their performance metrics.
 
-EDA Page
+**EDA Page**
+
 - Conducts exploratory data analysis (EDA) on the dataset.
 - 
 - Utilizes visualizations to uncover patterns and trends within the data.
 
-Prediction Page
+**Prediction Page**
 
 - Performs predictions on specific outcomes using machine learning models.
 - 
 - Displays prediction probabilities for each outcome.
 
-Image Preprocessing Page
+**Image Preprocessing Page**
 
 - Demonstrates various image preprocessing techniques.
 - 
 - Utilizes tools like OpenCV and EasyOCR for image analysis.
 
-NLP Page
+**NLP Page**
 
 - Implements NLP preprocessing techniques on textual data.
 - 
@@ -43,13 +45,13 @@ NLP Page
 - 
 - Generates word clouds based on text inputs.
 
-Recommendations Page
+**Recommendations Page**
 
 - Implements a recommendation system based on a movie dataset.
 - 
 - Provides recommendations for similar movies based on user selection.
 
-Technologies Used
+**Technologies Used**
 
 - Python
 - 
@@ -75,7 +77,7 @@ Technologies Used
 - 
 - WordCloud
 
-How to Run the Project
+**How to Run the Project**
 
 1. Install the required dependencies using `pip install -r requirements.txt`.
 2. 
@@ -83,7 +85,7 @@ How to Run the Project
 4. 
 5. Access the project in your web browser at the specified URL.
 
-## Contact
+**## Contact**
 
 For any inquiries or assistance, please feel free to reach out:
 
