@@ -87,7 +87,7 @@ How to Run the Project
 
 For any inquiries or assistance, please feel free to reach out:
 
-- **T Prabakaran**
+- **Prabakaran T**
 - **prabhusabharish78@gmail.com**
 - [www.linkedin.com/in/prabhu-sabharish-671871259]
 
