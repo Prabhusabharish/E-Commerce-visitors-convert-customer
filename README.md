@@ -1,4 +1,4 @@
-**DATA SCIENCE FINAL PROJECT**
+**DATA SCIENCE FINAL PROJECT**``
 
 **(This project encompasses various components of data science, including machine learning, image preprocessing, natural language processing (NLP) preprocessing, and recommendations. It is designed to demonstrate proficiency in these areas through practical implementation.)**
 
