@@ -271,7 +271,7 @@ def page4():
             st.write('Prediction:', "Yes" if prediction == 1 else "No")
             st.write('Prediction Probability:', prediction_proba)
 
-# #--------------------------------------------------------------page4-------------------------
+# #--------------------------------------------------------------page5-------------------------
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
@@ -412,7 +412,7 @@ def page5():
         st.write(extracted_text)
         
 
-# #--------------------------------------------------------------page4-------------------------
+# #--------------------------------------------------------------page6-------------------------
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
@@ -552,7 +552,7 @@ def page6():
     if st.button("Generate Word Cloud"):
         generate_word_cloud(user_text) 
 
-#--------------------------------------------------------------page6-------------------------
+#--------------------------------------------------------------page7-------------------------
 # from requests.packages.urllib3.util.retry import Retry
 
 
